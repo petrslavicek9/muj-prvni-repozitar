@@ -1,1 +1,1 @@
-# muj-prvni-repozitar
+Toto je můj první projekt s GitHubem.
